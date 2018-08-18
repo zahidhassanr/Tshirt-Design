@@ -9,3 +9,7 @@ Youi can upload image as well as text Here.
 It has two side...front side 
 
 And back side
+
+![screenshot_1](https://user-images.githubusercontent.com/26821006/44296737-f36cbb80-a2e5-11e8-8593-c2476cf9975f.png)
+
+AS you can see you can rotate the image and text as well as delete them.
